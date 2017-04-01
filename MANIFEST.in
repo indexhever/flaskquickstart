@@ -1,0 +1,3 @@
+graft firstproject/templates
+graft firstproject/static
+include firstproject/schema.sql

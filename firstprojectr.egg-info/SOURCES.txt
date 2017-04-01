@@ -1,0 +1,8 @@
+MANIFEST.in
+firstprojectr/__init__.py
+firstprojectr/firstprojectr.py
+firstprojectr.egg-info/PKG-INFO
+firstprojectr.egg-info/SOURCES.txt
+firstprojectr.egg-info/dependency_links.txt
+firstprojectr.egg-info/requires.txt
+firstprojectr.egg-info/top_level.txt
